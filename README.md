@@ -49,7 +49,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Hungary | NCSC Hungary | https://nki.gov.hu/figyelmeztetesek/riasztas/feed/ | No |
 | Italy | CSIRT Italia | https://csirt.gov.it/data/indexer/rss | No |
 | Japan | JPCERT | https://www.jpcert.or.jp/english/rss/jpcert-en.rdf | Yes |
-| Japan | JPCERT (Blog) | https://blog.jpcert.or.jp/atom.xml | Yes |
+| Japan | JPCERT (Blog) | https://blogs.jpcert.or.jp/en/atom.xml | Yes |
 | Latvia | CERT.LV | https://cert.lv/en/feed/rss/all | Yes |
 | Libya | NISSA | https://nissa.gov.ly/ | No |
 | Netherlands | NCSC NL | https://feeds.english.ncsc.nl/news.rss | Yes |

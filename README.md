@@ -13,6 +13,8 @@ If there are multiple feeds, please list the one most relevant to cybersecurity 
 
 Currently the list contains RSS feeds from only official government CERTs, and no feeds from CERTs in the private sector. If there is interest in including CERTs from the private sector, we can add a column specifying domain and do this.
 
+English language feeds are included by default. This does not mean that the native language feeds do not exist. If there is no English feed, the native language feed is included.
+
 If you would like to add a feed or correction, you can create a pull request, or open a GitHub Issue if you are more comfortable with that.
 
 If you would like to add a column, please open a pull request and fill out data for that column.

@@ -58,6 +58,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Portugal | CNCS Portugal | https://www.cncs.gov.pt/docs/noticias/feed-rss/index.xml | No |
 | Romania | CERT.RO | https://dnsc.ro/feed | No |
 | Singapore | SingCERT | https://www.csa.gov.sg/Content/RSS-Feed | Yes |
+| Slovakia | SK-CERT | https://www.sk-cert.sk/index.html%3Ffeed=rss | No |
 | Slovenia | SI-CERT | https://www.cert.si/en/category/news/feed/ | Yes |
 | Spain | CCN-CERT | https://www.ccn-cert.cni.es/component/obrss/rss-noticias.feed | No |
 | Spain | CCN-CERT | https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed | Yes |

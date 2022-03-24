@@ -39,6 +39,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Denmark | DKCERT | https://www.cert.dk/nyheder/rss | No |
 | Egypt | EG-CERT | https://www.egcert.eg/feed/ | Yes |
 | Estonia | CERT-EE | https://www.ria.ee/et/news-feed/all/feed | No |
+| EU | CERT-EU | https://cert.europa.eu/cert/Data/newsletter/reviewlatest-SecurityBulletins.xml | Yes |
 | Finland | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/feed/rss/en | Yes |
 | Finland (daily news) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/news.xml | Yes |
 | Finland (daily vulns) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml | Yes |
@@ -47,9 +48,12 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Hong Kong | HKCERT | https://www.hkcert.org/getrss/security-bulletin | Yes |
 | Hungary | NCSC Hungary | https://nki.gov.hu/figyelmeztetesek/riasztas/feed/ | No |
 | Italy | CSIRT Italia | https://csirt.gov.it/data/indexer/rss | No |
+| Japan | JPCERT | https://www.jpcert.or.jp/english/rss/jpcert-en.rdf | Yes |
+| Japan | JPCERT (Blog) | https://blogs.jpcert.or.jp/en/atom.xml | Yes |
 | Latvia | CERT.LV | https://cert.lv/en/feed/rss/all | Yes |
 | Libya | NISSA | https://nissa.gov.ly/ | No |
 | Netherlands | NCSC NL | https://feeds.english.ncsc.nl/news.rss | Yes |
+| Norway| NSM NCSC | https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/ | No |
 | Poland | CERT.PL | https://cert.pl/en/rss.xml | Yes |
 | Portugal | CNCS Portugal | https://www.cncs.gov.pt/docs/noticias/feed-rss/index.xml | No |
 | Romania | CERT.RO | https://dnsc.ro/feed | No |

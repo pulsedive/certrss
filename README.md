@@ -47,6 +47,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | France | CERT-FR | https://www.cert.ssi.gouv.fr/feed/ | No |
 | Hong Kong | HKCERT | https://www.hkcert.org/getrss/security-bulletin | Yes |
 | Hungary | NCSC Hungary | https://nki.gov.hu/figyelmeztetesek/riasztas/feed/ | No |
+| Israel | CERT-IL | https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5-fed6-4b8c-b8ee-7bf4a6bc81c8 | No |
 | Italy | CSIRT Italia | https://csirt.gov.it/data/indexer/rss | No |
 | Japan | JPCERT | https://www.jpcert.or.jp/english/rss/jpcert-en.rdf | Yes |
 | Japan | JPCERT (Blog) | https://blogs.jpcert.or.jp/en/atom.xml | Yes |

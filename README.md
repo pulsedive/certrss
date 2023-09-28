@@ -45,6 +45,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Finland (daily vulns) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml | Yes |
 | Finland (Security Now!) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/feed/rss/en/399 | Yes |
 | France | CERT-FR | https://www.cert.ssi.gouv.fr/feed/ | No |
+| Hong Kong | GovCERT.HK | https://www.govcert.gov.hk/en/rss_security_alerts.xml | Yes |
 | Hong Kong | HKCERT | https://www.hkcert.org/getrss/security-bulletin | Yes |
 | Hungary | NCSC Hungary | https://nki.gov.hu/figyelmeztetesek/riasztas/feed/ | No |
 | Israel | CERT-IL | https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5-fed6-4b8c-b8ee-7bf4a6bc81c8 | No |

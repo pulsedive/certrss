@@ -36,6 +36,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Canada (alerts) | Canadian Centre for Cyber Security | https://cyber.gc.ca/webservice/en/rss/alerts | Yes |
 | Canada (news) | Canadian Centre for Cyber Security | https://cyber.gc.ca/webservice/en/rss/news | Yes |
 | Croatia | CERT.hr | https://www.cert.hr/feed/ | No |
+| Czech Republic | NUKIB | https://nukib.gov.cz/rss.xml | No |
 | Denmark | DKCERT | https://www.cert.dk/nyheder/rss | No |
 | Egypt | EG-CERT | https://www.egcert.eg/feed/ | Yes |
 | Estonia | CERT-EE | https://www.ria.ee/et/news-feed/all/feed | No |

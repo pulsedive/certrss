@@ -1,0 +1,38 @@
+﻿CERT,country,country_code,website,news_RSS,news_type,alert_RSS,alert_type
+AusCERT,Australia,AU,https://auscert.org.au,,rss,https://portal.auscert.org.au/rss/bulletins/,rss
+CERT.at,Austria,AT,https://cert.at,https://cert.at/cert-at.en.blog.rss_2.0.xml,rss,,rss
+CERT.br,Brazil,BR,https://www.cert.br,https://www.cert.br/rss/certbr-rss.xml,rss,,rss
+"Canadian Centre for Cyber Security","Canada (news)",CA,https://cyber.gc.ca,https://cyber.gc.ca/webservice/en/rss/news,rss,https://cyber.gc.ca/webservice/en/rss/alerts,rss
+CERT.hr,Croatia,HR,https://www.cert.hr,https://www.cert.hr/feed/,rss,,rss
+NUKIB,"Czech Republic",CZ,https://nukib.gov.cz,https://nukib.gov.cz/rss.xml,rss,,rss
+DKCERT,Denmark,DK,https://www.cert.dk,https://www.cert.dk/news/rss,rss,,rss
+EG-CERT,Egypt,EG,https://www.egcert.eg,https://egcert.eg/feed/,rss,,rss
+CERT-EE,Estonia,EE,https://www.ria.ee,https://www.ria.ee/et/news-feed/all/feed,rss,,rss
+CERT-EU,EU,EU,https://cert.europa.eu,https://cert.europa.eu/publications/security-advisories-rss,rss,https://cert.europa.eu/publications/threat-intelligence-rss,rss
+NCSC-FI,Finland,FI,https://www.kyberturvallisuuskeskus.fi,https://www.kyberturvallisuuskeskus.fi/feed/rss/en,rss,https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml,rss
+CERT-FR,France,FR,https://www.cert.ssi.gouv.fr,https://www.cert.ssi.gouv.fr/feed/,rss,,rss
+"CSIRT Italia",Italy,IT,https://www.csirt.gov.it,https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192,rss,,rss
+JPCERT,Japan,JP,https://www.jpcert.or.jp,https://www.jpcert.or.jp/english/rss/jpcert-en.rdf,rss,https://blogs.jpcert.or.jp/en/atom.xml,rss
+CERT.LV,Latvia,LV,https://cert.lv,https://cert.lv/en/feed/rss/all,rss,,rss
+"NCSC NL","Netherlands (advisories)",NL,https://www.ncsc.nl/,https://feeds.ncsc.nl/nieuws.rss,rss,https://advisories.ncsc.nl/rss/advisories,rss
+CERT.PL,Poland,PL,https://cert.pl,https://cert.pl/en/rss.xml,rss,,rss
+CERT.RO,Romania,RO,https://dnsc.ro,https://dnsc.ro/feed,rss,,rss
+SI-CERT,Slovenia,SI,https://www.cert.si,https://www.cert.si/en/category/news/feed/,rss,,rss
+CERT-SE,Sweden,SE,https://www.cert.se,https://www.cert.se/feed.rss,rss,,rss
+"Swiss GovCERT",Switzerland,CH,https://www.ncsc.admin.ch,https://www.newsd.admin.ch/newsd/feeds/rss?lang=en&org-nr=1101,rss,,rss
+CERT-UA,Ukraine,UA,https://cert.gov.ua,https://cert.gov.ua/api/articles/rss,rss,,rss
+GovCERT.HK,"Hong Kong",HK,https://www.govcert.gov.hk,https://www.govcert.gov.hk/en/rss_security_alerts.xml,rss,https://www.govcert.gov.hk/en/rss_security_alerts.xml,rss
+HKCERT,"Hong Kong",HK,https://www.hkcert.org,https://www.hkcert.org/getrss/security-bulletin,rss,https://www.hkcert.org/getrss/security-bulletin,rss
+"NSM NCSC",Norway,NO,https://nsm.no,https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/,rss,https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/,rss
+INCIBE-CERT,Spain,ES,https://www.incibe.es,https://www.incibe.es/en/incibe-cert/alerta-temprana/avisos/feed,rss,https://www.incibe.es/en/incibe-cert/alerta-temprana/avisos/feed,rss
+CERT.BE,"Belgium (news)",BE,https://ccb.belgium.be,https://ccb.belgium.be/news.xml,rss,https://ccb.belgium.be/advisories.xml,rss
+"BGD e-GOV CIRT",Bangladesh,BD,https://www.cirt.gov.bd,https://www.cirt.gov.bd/feed/,rss,,rss
+"NCSC Hungary",Hungary,HU,https://nki.gov.hu,https://nki.gov.hu/figyelmeztetesek/riasztas/feed/,rss,,rss
+CERT-IL,Israel,IL,,,rss,,rss
+NISSA,Libya,LY,https://nissa.gov.ly,https://nissa.gov.ly/feed/,rss,,rss
+"CNCS Portugal",Portugal,PT,https://www.cncs.gov.pt,https://www.cncs.gov.pt/docs/noticias/feed-rss/index.xml,rss,,rss
+SingCERT,Singapore,SG,https://www.csa.gov.sg,https://www.csa.gov.sg/Content/RSS-Feed,rss,,rss
+SK-CERT,Slovakia,SK,https://www.sk-cert.sk,,rss,,rss
+CCN-CERT,Spain,ES,https://www.ccn-cert.cni.es,https://www.ccn-cert.cni.es/en/communication-events/articles-and-reports.rss,rss,,rss
+"UK NCSC",UK,GB,https://www.ncsc.gov.uk,https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml,rss,https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml,rss
+CISA,USA,US,https://www.cisa.gov,https://www.cisa.gov/uscert/ncas/all.xml,rss,https://www.cisa.gov/cybersecurity-advisories/all.xml,rss

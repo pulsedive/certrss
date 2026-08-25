@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Registre CERT - export 2026-08-16</title>
+  </head>
+  <body>
+    <outline text="CERT - Actus" title="CERT - Actus">
+      <outline text="CERT.at" title="CERT.at" type="rss" xmlUrl="https://cert.at/cert-at.en.blog.rss_2.0.xml" htmlUrl="https://cert.at"/>
+      <outline text="CERT.br" title="CERT.br" type="rss" xmlUrl="https://www.cert.br/rss/certbr-rss.xml" htmlUrl="https://www.cert.br"/>
+      <outline text="Canadian Centre for Cyber Security" title="Canadian Centre for Cyber Security" type="rss" xmlUrl="https://cyber.gc.ca/webservice/en/rss/news" htmlUrl="https://cyber.gc.ca"/>
+      <outline text="CERT.hr" title="CERT.hr" type="rss" xmlUrl="https://www.cert.hr/feed/" htmlUrl="https://www.cert.hr"/>
+      <outline text="NUKIB" title="NUKIB" type="rss" xmlUrl="https://nukib.gov.cz/rss.xml" htmlUrl="https://nukib.gov.cz"/>
+      <outline text="DKCERT" title="DKCERT" type="rss" xmlUrl="https://www.cert.dk/news/rss" htmlUrl="https://www.cert.dk"/>
+      <outline text="EG-CERT" title="EG-CERT" type="rss" xmlUrl="https://egcert.eg/feed/" htmlUrl="https://www.egcert.eg"/>
+      <outline text="CERT-EE" title="CERT-EE" type="rss" xmlUrl="https://www.ria.ee/et/news-feed/all/feed" htmlUrl="https://www.ria.ee"/>
+      <outline text="CERT-EU" title="CERT-EU" type="rss" xmlUrl="https://cert.europa.eu/publications/security-advisories-rss" htmlUrl="https://cert.europa.eu"/>
+      <outline text="NCSC-FI" title="NCSC-FI" type="rss" xmlUrl="https://www.kyberturvallisuuskeskus.fi/feed/rss/en" htmlUrl="https://www.kyberturvallisuuskeskus.fi"/>
+      <outline text="CERT-FR" title="CERT-FR" type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/feed/" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+      <outline text="CSIRT Italia" title="CSIRT Italia" type="rss" xmlUrl="https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192" htmlUrl="https://www.csirt.gov.it"/>
+      <outline text="JPCERT" title="JPCERT" type="rss" xmlUrl="https://www.jpcert.or.jp/english/rss/jpcert-en.rdf" htmlUrl="https://www.jpcert.or.jp"/>
+      <outline text="CERT.LV" title="CERT.LV" type="rss" xmlUrl="https://cert.lv/en/feed/rss/all" htmlUrl="https://cert.lv"/>
+      <outline text="NCSC NL" title="NCSC NL" type="rss" xmlUrl="https://feeds.ncsc.nl/nieuws.rss" htmlUrl="https://www.ncsc.nl/"/>
+      <outline text="CERT.PL" title="CERT.PL" type="rss" xmlUrl="https://cert.pl/en/rss.xml" htmlUrl="https://cert.pl"/>
+      <outline text="CERT.RO" title="CERT.RO" type="rss" xmlUrl="https://dnsc.ro/feed" htmlUrl="https://dnsc.ro"/>
+      <outline text="SI-CERT" title="SI-CERT" type="rss" xmlUrl="https://www.cert.si/en/category/news/feed/" htmlUrl="https://www.cert.si"/>
+      <outline text="CERT-SE" title="CERT-SE" type="rss" xmlUrl="https://www.cert.se/feed.rss" htmlUrl="https://www.cert.se"/>
+      <outline text="Swiss GovCERT" title="Swiss GovCERT" type="rss" xmlUrl="https://www.newsd.admin.ch/newsd/feeds/rss?lang=en&amp;org-nr=1101" htmlUrl="https://www.ncsc.admin.ch"/>
+      <outline text="CERT-UA" title="CERT-UA" type="rss" xmlUrl="https://cert.gov.ua/api/articles/rss" htmlUrl="https://cert.gov.ua"/>
+      <outline text="GovCERT.HK" title="GovCERT.HK" type="rss" xmlUrl="https://www.govcert.gov.hk/en/rss_security_alerts.xml" htmlUrl="https://www.govcert.gov.hk"/>
+      <outline text="HKCERT" title="HKCERT" type="rss" xmlUrl="https://www.hkcert.org/getrss/security-bulletin" htmlUrl="https://www.hkcert.org"/>
+      <outline text="NSM NCSC" title="NSM NCSC" type="rss" xmlUrl="https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/" htmlUrl="https://nsm.no"/>
+      <outline text="INCIBE-CERT" title="INCIBE-CERT" type="rss" xmlUrl="https://www.incibe.es/en/incibe-cert/alerta-temprana/avisos/feed" htmlUrl="https://www.incibe.es"/>
+      <outline text="CERT.BE" title="CERT.BE" type="rss" xmlUrl="https://ccb.belgium.be/news.xml" htmlUrl="https://ccb.belgium.be"/>
+      <outline text="BGD e-GOV CIRT" title="BGD e-GOV CIRT" type="rss" xmlUrl="https://www.cirt.gov.bd/feed/" htmlUrl="https://www.cirt.gov.bd"/>
+      <outline text="NCSC Hungary" title="NCSC Hungary" type="rss" xmlUrl="https://nki.gov.hu/figyelmeztetesek/riasztas/feed/" htmlUrl="https://nki.gov.hu"/>
+      <outline text="NISSA" title="NISSA" type="rss" xmlUrl="https://nissa.gov.ly/feed/" htmlUrl="https://nissa.gov.ly"/>
+      <outline text="CNCS Portugal" title="CNCS Portugal" type="rss" xmlUrl="https://www.cncs.gov.pt/docs/noticias/feed-rss/index.xml" htmlUrl="https://www.cncs.gov.pt"/>
+      <outline text="SingCERT" title="SingCERT" type="rss" xmlUrl="https://www.csa.gov.sg/Content/RSS-Feed" htmlUrl="https://www.csa.gov.sg"/>
+      <outline text="CCN-CERT" title="CCN-CERT" type="rss" xmlUrl="https://www.ccn-cert.cni.es/en/communication-events/articles-and-reports.rss" htmlUrl="https://www.ccn-cert.cni.es"/>
+      <outline text="UK NCSC" title="UK NCSC" type="rss" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml" htmlUrl="https://www.ncsc.gov.uk"/>
+      <outline text="CISA" title="CISA" type="rss" xmlUrl="https://www.cisa.gov/uscert/ncas/all.xml" htmlUrl="https://www.cisa.gov"/>
+    </outline>
+    <outline text="CERT - Alertes" title="CERT - Alertes">
+      <outline text="AusCERT" title="AusCERT" type="rss" xmlUrl="https://portal.auscert.org.au/rss/bulletins/" htmlUrl="https://auscert.org.au"/>
+      <outline text="Canadian Centre for Cyber Security" title="Canadian Centre for Cyber Security" type="rss" xmlUrl="https://cyber.gc.ca/webservice/en/rss/alerts" htmlUrl="https://cyber.gc.ca"/>
+      <outline text="CERT-EU" title="CERT-EU" type="rss" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss" htmlUrl="https://cert.europa.eu"/>
+      <outline text="NCSC-FI" title="NCSC-FI" type="rss" xmlUrl="https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml" htmlUrl="https://www.kyberturvallisuuskeskus.fi"/>
+      <outline text="JPCERT" title="JPCERT" type="rss" xmlUrl="https://blogs.jpcert.or.jp/en/atom.xml" htmlUrl="https://www.jpcert.or.jp"/>
+      <outline text="NCSC NL" title="NCSC NL" type="rss" xmlUrl="https://advisories.ncsc.nl/rss/advisories" htmlUrl="https://www.ncsc.nl/"/>
+      <outline text="GovCERT.HK" title="GovCERT.HK" type="rss" xmlUrl="https://www.govcert.gov.hk/en/rss_security_alerts.xml" htmlUrl="https://www.govcert.gov.hk"/>
+      <outline text="HKCERT" title="HKCERT" type="rss" xmlUrl="https://www.hkcert.org/getrss/security-bulletin" htmlUrl="https://www.hkcert.org"/>
+      <outline text="NSM NCSC" title="NSM NCSC" type="rss" xmlUrl="https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/" htmlUrl="https://nsm.no"/>
+      <outline text="INCIBE-CERT" title="INCIBE-CERT" type="rss" xmlUrl="https://www.incibe.es/en/incibe-cert/alerta-temprana/avisos/feed" htmlUrl="https://www.incibe.es"/>
+      <outline text="CERT.BE" title="CERT.BE" type="rss" xmlUrl="https://ccb.belgium.be/advisories.xml" htmlUrl="https://ccb.belgium.be"/>
+      <outline text="UK NCSC" title="UK NCSC" type="rss" xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml" htmlUrl="https://www.ncsc.gov.uk"/>
+      <outline text="CISA" title="CISA" type="rss" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml" htmlUrl="https://www.cisa.gov"/>
+    </outline>
+  </body>
+</opml>
